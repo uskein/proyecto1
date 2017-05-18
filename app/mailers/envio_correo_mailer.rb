@@ -1,0 +1,2 @@
+class EnvioCorreoMailer < ApplicationMailer
+end
